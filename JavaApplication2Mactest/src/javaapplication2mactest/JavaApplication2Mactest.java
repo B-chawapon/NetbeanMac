@@ -16,7 +16,7 @@ public class JavaApplication2Mactest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("test mac");
+        System.out.println("test mac111");
     }
     
 }
