@@ -11,12 +11,15 @@ package javaapplication2mactest;
  */
 public class JavaApplication2Mactest {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("test mac111");
+    public static void main(String[] args) {  //psvm
+        System.out.println("wow");             //sout
+        System.out.println("OMG");
+        
+        double radius =20;
+        double area =radius*radius*3.14159;
+        
+        System.out.println(+radius+area);
+        
     }
-    
+
 }
